@@ -79,7 +79,13 @@ A standard UI plugin to save ComfyUI workflows quickly and easily.
 
 ## Installation
 
-1. Clone or download the repository
+1. Open a terminal into the ComfyUI `custom_nodes` directory
+2. Clone the repository : 
+   git clone https://github.com/jerome7562/Comfyui-tricks.git
+3. Restart ComfyUI to apply the changes
+
+or 
+1. download the repository
 2. Copy the plugin folder into the ComfyUI `custom_nodes` directory
 3. Restart ComfyUI to apply the changes
 
