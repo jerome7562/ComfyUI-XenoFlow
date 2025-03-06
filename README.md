@@ -37,13 +37,13 @@ It's just a visual representation to facilitate connections, but **it doesn't ne
 - **Dynamic Node Management**: Handles node removal and reassignments seamlessly.
 
 #### Usage
-- Right-click on a node and select **Instance Node** to create a linked replicate.
-- A replicate node can be recognized by the red circle at top left. 
+- Right-click on a node and select **Instance Node** to create a linked instance.
+- A instance node can be recognized by the yellow circle at top left. 
 - Adjust any widget in the original node, and the changes will reflect across all instances.
 - Deleting an original node will reassign the first instance node as the new source. 
   This instance then recovers all its properties and becomes editable again.
 - Select a instance node to show the relashionship with the nodes sources by a yellow dashline.
-- Select a source node to show the relashionship with all replicate nodes by red dashlines.
+- Select a source node to show the relashionship with all instance nodes by yellow dashlines.
 
 ### 2. ReplicateNode
 
