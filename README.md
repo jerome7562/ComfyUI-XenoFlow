@@ -13,6 +13,8 @@ This plugin suite enhances the workflow management capabilities of ComfyUI, prov
 2. **ReplicateNode**
 3. **Save Workflow**
 
+Videos are available in docs/images directory.
+
 ## Plugins Details
 
 ### 1. InstanceNode
