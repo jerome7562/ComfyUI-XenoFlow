@@ -1,3 +1,5 @@
+# ComfyUI-XenoFlow: Instance Node Functionality
+# This extension allows creating instance nodes that are linked to a source node
 # File: nodes/instance_node.py
 
 def get_node_class(source_class):

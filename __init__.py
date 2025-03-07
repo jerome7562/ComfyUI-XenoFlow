@@ -1,4 +1,4 @@
-# ComfyUI-Tricks1: A collection of utilities for ComfyUI
+# ComfyUI-XenoFlow: A collection of node to optimise the workflow in ComfyUI
 # This package includes:
 # - Instance nodes: Create linked instances of existing nodes
 # - Replicate nodes: Create copies of nodes with synchronized widgets

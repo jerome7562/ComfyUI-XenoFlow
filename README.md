@@ -1,4 +1,4 @@
-# ComfyUI Tricks
+# ComfyUI XenoFlow
 - **Version**: 1.0.0
 - **Release Date**: February 16, 2025
 - **Author**: Jerome Bacquet
@@ -28,7 +28,7 @@ The main objective is to simplify the visualization of complex graphs by limitin
 **IMPORTANT**: a node instance is not editable and it inherits all the properties of its source node. 
 It's just a visual representation to facilitate connections, but **it doesn't need to be evaluated** !
 
-![InstanceNode Snapshot](docs/images/instance_snapshot.jpg)
+![InstanceNode Snapshot](docs/images/XenoFlow_instance_snapshot.jpg)
 
 #### Key Features
 - **Node Instancing**: Addition of a “Instance Node” option in the context menu to create instance of a source node that remain linked.
@@ -54,7 +54,7 @@ ReplicateNode provides advanced node replication capabilities, allowing users to
 
 **IMPORTANT**: a replicate node doesn't necessarily use the same inputs as the source node and needs to be evaluated in the graph (unlike an instance node). Each replicate is therefore independent and must be evaluated.
 
-![ReplicateNode Snapshot](docs/images/replicate_snapshot.jpg)
+![ReplicateNode Snapshot](docs/images/XenoFlow_replicate_snapshot.jpg)
 
 #### Key Features
 - **Node Replication**: Addition of a “Replicate Node” option in the context menu to duplicate a node with automatic synchronization of properties.
@@ -77,7 +77,7 @@ ReplicateNode provides advanced node replication capabilities, allowing users to
 #### Description
 A standard UI plugin to save ComfyUI workflows quickly and easily.
 
-![Save Workflow Snapshot](docs/images/save_workflow_snapshot.jpg)
+![Save Workflow Snapshot](docs/images/XenoFlow_save_workflow_snapshot.jpg)
 
 #### Usage
 - Right-click on the canvas
@@ -88,13 +88,14 @@ A standard UI plugin to save ComfyUI workflows quickly and easily.
 
 1. Open a terminal into the ComfyUI `custom_nodes` directory
 2. Clone the repository : 
-git clone https://github.com/jerome7562/Comfyui-tricks.git
+git clone https://github.com/jerome7562/Comfyui-XenoFlow.git
 3. Restart ComfyUI to apply the changes
 
 or 
 1. download the repository
 2. Copy the plugin folder into the ComfyUI `custom_nodes` directory
 3. Restart ComfyUI to apply the changes
+
 
 ## Licensing
 

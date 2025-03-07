@@ -1,5 +1,6 @@
-// ComfyUI-Tricks1: Replicate Node Functionality
+// ComfyUI-XenoFlow: Replicate Node Functionality
 // This extension allows creating replicate nodes that are linked to a source node
+// File: web/replicate_node.js
 
 import { app } from "../../../scripts/app.js";
 

@@ -1,3 +1,5 @@
+# ComfyUI-XenoFlow: Replicate Node Functionality
+# This extension allows creating replicate nodes that are linked to a source node
 # File: nodes/replicate_node.py
 
 def get_node_class(source_class):

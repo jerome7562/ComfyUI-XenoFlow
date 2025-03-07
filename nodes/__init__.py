@@ -1,3 +1,4 @@
+# ComfyUI-XenoFlow
 # Initialization file for the nodes package
 # Imports and combines node definitions from all modules
 

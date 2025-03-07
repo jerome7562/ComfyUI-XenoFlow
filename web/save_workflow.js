@@ -1,4 +1,6 @@
-// ComfyUI-Tricks1: Save Workflow Functionality
+// ComfyUI-XenoFlow: Save Workflow Functionality
+// File: web/save_workflow.js
+
 console.log("Save Workflow Extension Loading");
 
 // Wait for app to be available
