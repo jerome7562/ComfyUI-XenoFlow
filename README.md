@@ -88,7 +88,7 @@ A standard UI plugin to save ComfyUI workflows quickly and easily.
 
 1. Open a terminal into the ComfyUI `custom_nodes` directory
 2. Clone the repository : 
-git clone https://github.com/jerome7562/Comfyui-XenoFlow.git
+git clone https://github.com/jerome7562/ComfyUI-XenoFlow.git
 3. Restart ComfyUI to apply the changes
 
 or 
