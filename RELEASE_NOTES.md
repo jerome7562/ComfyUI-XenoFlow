@@ -1,5 +1,5 @@
 # Release Notes - ComfyUI-XenoFlow
-## [V1.0.2] - 2025-03-10
+## [V1.0.3] - 2025-03-10
  - Registry ComfyUI Plugin
 ## [V1.0.1] - 2025-03-09
  - Save_workflow
