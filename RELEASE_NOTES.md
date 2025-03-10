@@ -1,5 +1,6 @@
 # Release Notes - ComfyUI-XenoFlow
-
+## [V1.0.2] - 2025-03-10
+ - Registry ComfyUI Plugin
 ## [V1.0.1] - 2025-03-09
  - Save_workflow
       -  Fixed limitation with function that only worked with the frontend version of ComfyUI.  
