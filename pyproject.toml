@@ -9,6 +9,6 @@ Repository = "https://github.com/jerome7562/ComfyUI-XenoFlow"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "3eedd79c-93a7-4f05-b6f3-e8a4a52e216b"
 DisplayName = "ComfyUI-XenoFlow"
 Icon = ""
