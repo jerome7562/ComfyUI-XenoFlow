@@ -1,5 +1,5 @@
 # ComfyUI XenoFlow
-- **Version**: 1.0.1
+- **Version**: 1.0.3
 - **Release Date**: 2025-03-09
 - **Author**: Jerome Bacquet
 - **Organization**: CIRCUS
