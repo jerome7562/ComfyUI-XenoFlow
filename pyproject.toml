@@ -1,7 +1,7 @@
 [project]
 name = "xenoflow"
 description = "Implementation of Instance nodes, Replicate nodes, and standard Save UI to improve the workflow into ComfyUI."
-version = "1.0.2"
+version = "1.0.3"
 license = {file = "LICENSE"}
 
 [project.urls]
